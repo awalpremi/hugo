@@ -26,17 +26,17 @@ The version recruiters expect to find.
 
 ### GitHub
 https://github.com/awalpremi  
-Code, experiments, unfinished code.
+Code, experiments, unfinished code experiments.
 
 ### Hugging Face
 https://huggingface.co/Awal  
-Evidence I actually did “AI” years ago.
+Evidence I did “AI” before it was popular.
 
 ---
 
 ## Fun
 
-*Still me, just less filtered.*
+*Still me, just less.*
 
 ### YouTube
 https://www.youtube.com/@awalstreetjournal  
@@ -48,7 +48,7 @@ Compressed for attention spans.
 
 ### Instagram
 https://www.instagram.com/awalpremi/  
-I just need followers for my new account.
+I need followers for my new account.
 
 ---
 
