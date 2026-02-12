@@ -9,7 +9,7 @@ description = "How precious is my time?"
 
 ```toml
 +++
-"BASE64"
+"Email"
 IGZyZXNocHJpbmNlb2ZzdGFuZGFyZGVycm9yQHByb3Rvbm1haWwuY29t
 +++
 ```
