@@ -5,9 +5,16 @@ theme = "hugo-brewm"
 
 [params]
   description = "AI, software, markets, and writing."
-  copyright = "Copyleft 2026 &copy; Awal Premi"
+  copyright = "© 2026 Awal Premi"
   extMeta = true
   ZenMode = false
+
+  unifiedFooter = true
+  DisableFootBar = true
+  HideHugoCredit = true
+
+[params.posts]
+  colophon = true
 
   [params.logo]
     logoType = true
@@ -25,3 +32,6 @@ theme = "hugo-brewm"
     name = "About"
     url = "/about/"
     weight = 3
+
+[params.analytics]
+  append = 'head'
