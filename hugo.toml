@@ -1,27 +1,26 @@
 baseURL = "https://awalpremi.com/"
 languageCode = "en-us"
-title = "AwalPremi"
-theme = "PaperMod"
+title = "Prem"
+theme = "hugo-brewm"
 
 [params]
-  author = "Your Name or Team"
-  description = "A description of your site for SEO."
-  defaultTheme = "auto"  # Light/Dark theme auto-switching
-  disableSearch = false  # Enable built-in search
-  mainSections = []
+  description = "AI, software, markets, and writing."
+  copyright = "Copyleft 2026 &copy; Awal Premi"
+  extMeta = true
+  ZenMode = false
 
+  [params.logo]
+    logoType = true
+
+  [params.author]
+    name = "Awal Premi"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  stage = "stage"
+  author = "author"
 [menu]
-
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
-
   [[menu.main]]
     name = "About"
     url = "/about/"

@@ -1,21 +1,22 @@
 +++
-date = '2024-11-29T13:15:09-07:00'
-draft = false
-title = 'About'
-ShowCodeCopyButtons = true
-hideMeta = true
-showtoc = true
-description = 'about page containing multitudes'
+title = "Emails"
+description = "How precious is my time?"
 +++
 
-```python
-print('About page')
+###### HIII
+
+
+
+```toml
++++
+"BASE64"
+IGZyZXNocHJpbmNlb2ZzdGFuZGFyZGVycm9yQHByb3Rvbm1haWwuY29t
++++
 ```
 
-# one
-
-## two
-
-### three
-
-# one
+```toml
++++
+"Readable lie for machines"
+bG92ZSB5b3UgYmln
++++
+```
