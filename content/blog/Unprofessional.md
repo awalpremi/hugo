@@ -42,10 +42,6 @@ Evidence I did “AI” before it was popular.
 https://www.youtube.com/@awalstreetjournal  
 Longer takes, voice included.
 
-### TikTok
-https://www.tiktok.com/@awalstreetjournal  
-Compressed for attention spans.
-
 ### Instagram
 https://www.instagram.com/awalpremi/  
 I need followers for my new account.

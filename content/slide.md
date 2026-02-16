@@ -1,7 +1,7 @@
 ---
 type: 'slide'
 title: ''
-cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/22.svg'
+cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/4.svg'
 weight: 1
 params:
     headless: true
