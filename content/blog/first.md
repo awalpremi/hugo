@@ -11,6 +11,7 @@ history = [
   {date = "2026-02-02", stage="budding", author = "are", editor = "am"},
   {date = "2026-02-03", stage="evergreen",author = "wasting time", editor = "wasting time", note = "got you ☠︎"},
 ]
+audio = "/audio/lacrimosa.mp3"
 +++
 
 
